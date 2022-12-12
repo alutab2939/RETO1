@@ -1,1 +1,5 @@
-
+NIF,Nombre,Apellido1,Apellido2,cuenta,Antigüedad,N._de_afiliación_a_la_Seguridad_Social,Categoría-Grupo_profesional,Grupo_Cotización,email
+12345712-H,JORGE,BUSTOS,MUÑOZ,jbustosm,25/01/2021, ,A1,2,jbustosm@empresa4.com
+12345695-R,FRANCISCO,CAMPOS,GOMIS,fcamposg,11/12/2010, ,B2,4,fcamposg@empresa4.com
+12345694-Q,ISABEL,CARVALHO,ALABAU,icarvalhoa,16/09/2015, ,A3,5,icarvalhoa@empresa4.com
+12345700-W,JORGE,CARVALHO,GOMIS,jcarvalhog,15/02/2022, ,B3,7,jcarvalhog@empresa4.com
