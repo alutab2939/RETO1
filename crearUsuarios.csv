@@ -1,5 +1,30 @@
-NIF,Nombre,Apellido1,Apellido2,cuenta,Antigüedad,N._de_afiliación_a_la_Seguridad_Social,Categoría-Grupo_profesional,Grupo_Cotización,email
-12345712-H,JORGE,BUSTOS,MUÑOZ,jbustosm,25/01/2021, ,A1,2,jbustosm@empresa4.com
-12345695-R,FRANCISCO,CAMPOS,GOMIS,fcamposg,11/12/2010, ,B2,4,fcamposg@empresa4.com
-12345694-Q,ISABEL,CARVALHO,ALABAU,icarvalhoa,16/09/2015, ,A3,5,icarvalhoa@empresa4.com
-12345700-W,JORGE,CARVALHO,GOMIS,jcarvalhog,15/02/2022, ,B3,7,jcarvalhog@empresa4.com
+NIF,Nombre,Apellido1,Apellido2,cuenta,email
+12345712-H,JORGE,BUSTOS,MUÑOZ,jbustosm,jbustosm@empresa4.com
+12345695-R,FRANCISCO,CAMPOS,GOMIS,fcamposg,fcamposg@empresa4.com
+12345694-Q,ISABEL,CARVALHO,ALABAU,icarvalhoa,icarvalhoa@empresa4.com
+12345700-W,JORGE,CARVALHO,GOMIS,jcarvalhog,jcarvalhog@empresa4.com
+12345704-A,PEDRO,CHAVES,ALABAU,pchavesa,pchavesa@empresa4.com
+12345698-U,IGNACIO,CHAVES,JUAN,ichavesj,ichavesj@empresa4.com
+12345697-T,MIRIAM,JUAN,PUJOL,mjuanp,mjuanp@empresa4.com
+12345686-I,MIRIAM,JUAN,VALENCIA,mjuanv,mjuanv@empresa4.com
+12345696-S,BASILIO,MONCHO,COELLO,bmonchoc,bmonchoc@empresa4.com
+12345710-G,JOHANN,ALBA,CHAVES,jalbac,jalbac@empresa4.com
+12345705-B,PIEDAD,ALBA,GOMIS,palbag,palbag@empresa4.com
+12345693-P,SARA,ALBA,MONCHO,salbam,salbam@empresa4.com
+12345701-X,ANTONIO,ALABAU,VALENCIA,aalabauv,aalabauv@empresa4.com
+12345688-K,LAURA,ALBA,ARIAS,lalbaa,lalbaa@empresa4.com
+12345689-L,JORGE,CARVALHO,PELLICER,jcarvalhop,jcarvalhop@empresa4.com
+12345706-C,MANUEL,CARVALHO,VALENCIA,mcarvalhov,mcarvalhov@empresa4.com
+12345692-O,PEPE,CHAVES,CAMPOS,pchavesc,pchavesc@empresa4.com
+12345709-F,RODRIGO,CHAVES,CAMPOS,rchavesc,rchavesc@empresa4.com
+12345687-J,IGNACIO,CHAVES,VARGAS,ichavesv,ichavesv@empresa4.com
+12345702-Y,CLAUDIO,GOMIS,CAMPOS,cgomisc,cgomisc@empresa4.com
+12345691-N,CLAUDIO,MONCHO,AGUILAR,cmonchoa,cmonchoa@empresa4.com
+12345708-E,EVA,MONCHO,CARVALHO,emonchoc,emonchoc@empresa4.com
+12345685-H,BASILIO,PUJOL,GOMIS,bpujolg,bpujolg@empresa4.com
+12345703-Z,SUSANA,VALENCIA,MONCHO,svalenciam,svalenciam@empresa4.com
+12345699-V,LAURA,ALBA,ALABAU,lalbaa,lalbaa@empresa4.com
+12345711-H,BENITO,APARICIO,ROJALES,baparicior,baparicior@empresa4.com
+12345690-M,ANTONIO,CAMPOS,GALLEGO,acamposg,acamposg@empresa4.com
+12345707-D,JAVIER,CAMPOS,VARGAS,jcamposv,jcamposv@empresa4.com
+12345713-H,BEATRIZ,CANAVARO,PORTA,bcanavarop,bcanavarop@empresa4.com
